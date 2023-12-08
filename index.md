@@ -16,6 +16,7 @@ Syntax highlighted code block
 - CS 193 is a very useful class that teaches you terminal commands
 - Eddie and Arman are cool people
 - You also get to learn about career prospects with CS/DS/AI
+- Overall, very chill class
 
 ```
 
